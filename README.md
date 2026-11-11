@@ -1,2 +1,2 @@
 # LPU-HostelCare
-Hostel Maintenance and Management System using HTML, CSS and JavaScript
+Hostel Maintenance and Management System 
